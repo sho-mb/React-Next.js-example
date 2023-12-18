@@ -44,8 +44,3 @@ This is example of learning structure of React / NEXT.js
 ### Restfull API
 - You can use / Get / Post / Put / Delete
 - You can add endpoint, Check in lib/hamburgerApi.ts
-
-
-- limited inventory and can be increase via shop purchase
-- shop include fertilizer and adjust crop quality accordingly with multiple factors such land, weather, water
-- land quality reduce after harvesting each crop and can be increase via fertilizer or give time by not using the land to plant crop so it can naturally recovered
