@@ -1,0 +1,6 @@
+@mangoBargurShop_HostAddress = http://localhost:5024
+
+GET {{mangoBargurShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
